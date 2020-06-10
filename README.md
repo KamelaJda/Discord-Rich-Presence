@@ -55,6 +55,10 @@ Przykładowy config:
 }
 ```
 
+Efekt z wykorzystaniem przykładowego configu
+
+![tak](https://cdn.discordapp.com/attachments/549359078342787092/720406623327223838/unknown.png)
+
 ## Jak stworzyć aplikacje?
 1. Wchodzisz [tutaj](https://discord.com/developers/applications/).
 2. Klikasz przycisk na prawym rogu `New Application`.
