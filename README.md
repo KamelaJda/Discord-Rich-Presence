@@ -4,7 +4,7 @@
 
 1. Pobierz najnowszy plik `.jar` [KLIK](https://github.com/KAMIL0024/Discord-Rich-Presence/releases)
 2. Uruchom program wpisując komendę w konsoli `java -jar DiscordRPC.jar`
-3. Ustaw config (plik `config.json`) do swoich potrzeb.
+3. Przy pierwszym uruchomieniu stworzy się plik `config.json`. Ustaw go do swoich potrzeb.
 
 
 ## Konfiguracja
