@@ -58,7 +58,7 @@ Przykładowy config:
 ## Jak stworzyć aplikacje?
 1. Wchodzisz [tutaj](https://discord.com/developers/applications/).
 2. Klikasz przycisk na prawym rogu `New Application`.
-3. Pod nazwą masz jego ID, przyda się do uzupełnienia klucz `applicationId` w configu.
+3. Pod nazwą masz jego ID, przyda się do uzupełnienia klucza `applicationId` w configu.
 4. Przejdź do sekcji Rich Presence (po lewej to jest)
 5. Kliknij `Add Image(s)`. Nazwy zdjęć będą odpowiadać za klucze `key` w configu.
 6. Zapisz i gotowe.
